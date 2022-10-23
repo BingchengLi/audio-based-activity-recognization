@@ -6,7 +6,7 @@ The project involves data collection, data pre-processing/signal conditioning, f
 ## Data collection
 The data used in the project are collected with Voice Recorder on an iPhone. 20 samples of five events (approximately 30 seconds each) including microwave, blender, fire alarm, vacuum cleaner, and music are collected to build the model from scratch. 20 samples of silence are also included. They are used to develop a logic that can be used in the future to filter out silent periods or segment actual events.
 
-The data collected can be found [here]().
+The data collected can be found [here](https://www.dropbox.com/s/thcsh8bc055x6ya/data.zip?dl=0).
 
 ## Feature Engineering
 
